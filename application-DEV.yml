@@ -1,0 +1,5 @@
+service:
+  name: config-demo
+
+country: USA
+language: en-US
